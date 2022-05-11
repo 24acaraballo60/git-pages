@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML: Lists</title>
+    </head>
+    <body>
+    
+    <h1>Sources</h1>
+    
+    <p>These are the sources that are used throughout our webpages. 
+    We give credit to the proprietors through recogizing their copyright
+    and give credit for the information we used from these sources.</p>
+    
+    <ol>
+      <li>Site name/copyright:</li>
+      <li>Site name/copyright:</li>
+      <li>Site name/copyright:</li>
+      <li>Site name/copyright:</li>
+      <li>Site name/copyright:</li>
+    </ol>
+    
+    <h1>FAQ</h1>
+    
+    <h2>Most Frequently Asked Questions:</h2>
+    
+    <ul>
+        <li>How do I obtain a Plan Review Application?</li>
+        <li>How do I obtain a Hot Works Report?</li>
+        <li>How do I obtain a Fire Report?</li>
+        <li>How do I obtain a Rescue Report?</li>
+        <li>Is Open Burning Permitted?</li>
+    </ul>
+   
+    </body>
+</html>
